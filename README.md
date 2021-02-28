@@ -5,8 +5,11 @@ This is a self developed basic working model of TCP and UDP server-client commun
 Step 1. Download the source code to system in zip format or clone repo.
 
 Step 2. On linux shell navigate to
+``` 
+"Download-Location"/Server-Client-Communication-main/Server-Client-Communication-main/ServerClientTCP
 
-``` "Download-Location"/Server-Client-Communication-main/Server-Client-Communication-main/ServerClientTCP ```
+```
+
 Or
 
 "Download-Location"/Server-Client-Communication-main/Server-Client-Communication-main/ServerClientUDP
