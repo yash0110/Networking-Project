@@ -13,7 +13,7 @@ Step 3. compile the server and client codes using command
 gcc UDPServer.cpp -o UDPServer
 ```
 ```
-gcc UDPClient.c -o UDPClient
+gcc UDPClient.cpp -o UDPClient
 ```
 Step 4. run Server with a server port using command
 ```
@@ -23,3 +23,5 @@ Step 4. run Client with name of server and server port using command
 ```
 ./UDPClient localhost 2000
 ```
+##Tech Stack Used
+All the functionalities are programmed in C++ language with the help of socket programming libraries.
