@@ -23,5 +23,5 @@ Step 4. run Client with name of server and server port using command
 ```
 ./UDPClient localhost 2000
 ```
-##Tech Stack Used
+## Tech Stack Used
 All the functionalities are programmed in C++ language with the help of socket programming libraries.
