@@ -6,20 +6,20 @@ Step 1. Download the source code to system in zip format or clone repo.
 
 Step 2. On linux shell navigate to 
 ``` 
-"Download-Location"/Server-Client-Communication-main/Server-Client-Communication-main/ServerClientTCP
+"Download-Location"/Server-Client-Communication-main/Server-Client-Communication-main
 ```
 Step 3. compile the server and client codes using command
 ```
-gcc My-Server.c -o Server
+gcc UDPServer.cpp -o UDPServer
 ```
 ```
-gcc My-Client.c -o Client
+gcc UDPClient.c -o UDPClient
 ```
 Step 4. run Server with a server port using command
 ```
-./Server 2000
+./UDPServer 2000
 ```
 Step 4. run Client with name of server and server port using command
 ```
-./Client localhost 2000
+./UDPClient localhost 2000
 ```
