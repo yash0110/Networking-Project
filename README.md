@@ -1,7 +1,7 @@
 # Server-Client-Communication
 This is a self developed basic working model of TCP and UDP server-client communication protocals.
 
-#How To Run
+# How To Run
 Step 1. Download the source code to system in zip format or clone repo.
 
 Step 2. On linux shell navigate to
